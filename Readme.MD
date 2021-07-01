@@ -1,6 +1,6 @@
-# Livro de Receitas 
+# Livro de Receitas :book:
 
-Olá ! Bem vindo ao meu livro de Receitas
+Olá ! Bem vindo ao meu livro de Receitas :coffee:
 
 - Bolo de chocolate
 
